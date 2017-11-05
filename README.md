@@ -1,5 +1,4 @@
-# odsc_west_2017
-### Files for my talk at ODSC west 2017 on predictive modeling
+# Files for my talk at ODSC west 2017 on predictive modeling
 Hyatt Regency SFO<br>
 11/4/2017<br>
 
