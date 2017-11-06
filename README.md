@@ -15,5 +15,6 @@ Background information<br>
 https://www.hindawi.com/journals/bmri/2014/781670/sup/<br>
 https://www.speechmed.com/cost-hospital-readmission/
 
-
-
+References
+1. Elements of statistical learning<br>
+   https://web.stanford.edu/~hastie/ElemStatLearn/
