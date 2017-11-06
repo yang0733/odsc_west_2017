@@ -2,6 +2,9 @@
 Hyatt Regency SFO<br>
 11/4/2017<br>
 
+Download slide deck<br>
+https://goo.gl/umLZ2X
+
 Download Data<br> 
 https://goo.gl/AoR7xn
 
